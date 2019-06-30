@@ -1,0 +1,10 @@
+11 Linux
+22 Java
+33 C++
+66 mysql
+11 Linux
+22 Java
+33 C++
+55 tomcat
+66 mysql
+99 python
